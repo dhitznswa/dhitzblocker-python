@@ -1,0 +1,11 @@
+# Masukan list website disini simbol # tidak akan diexsekusi/ sebagai komentar
+
+facebook.com
+www.facebook.com
+tiktok.com
+www.tiktok.com
+yandex.com
+www.yandex.com
+instagram.com
+www.instagram.com
+
