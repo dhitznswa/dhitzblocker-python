@@ -36,8 +36,6 @@ if platform.system() == "Windows":
     filepath_host = "C:\Windows\System32\drivers\etc\hosts"
 else: filepath_host = "/etc/hosts"; clear_terminal = "clear"
 
-filepath_host="hosts"
-
 isexit = False
 tools_version = os.path.join("core", "version.txt")
 default_hosts = os.path.join("core", "default-hosts.txt")
